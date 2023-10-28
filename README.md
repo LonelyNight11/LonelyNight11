@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LonelyNight11's GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyNight11)](https://github.com/LonelyNight11/github-readme-stats)
+
+
+[![Solved.ac assameasyou11](http://mazassumnida.wtf/api/v2/generate_badge?boj=assameasyou11)](https://solved.ac/assameasyou11)
